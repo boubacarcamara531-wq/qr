@@ -28,3 +28,7 @@ body {
 #text {
     padding: 4px;
 }
+
+p {
+    color: rgba(123, 135, 157, 0.7);
+}
